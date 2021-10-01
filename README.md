@@ -1,5 +1,4 @@
 # Olá, Mundo!
- Primeiro repositorio dp curso de git e github
+Treinando no Android studio!
 
-Eae menorzinn
-Testando o pull!
+Aplicativos simples!
